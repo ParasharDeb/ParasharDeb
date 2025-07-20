@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Parashar Deb — a tech enthusiast with a focus on automation, DevOps, and machine learning.<br><br>🔧Tech stack: Next.js, Node.js, TypeScript, Python, and Bash.<br><br>🧠 Currently learning ML — working on object detection projects using YOLO and Google Colab.<br><br>🚀 I contribute to open-source tools, and build automation scripts, APIs, and practical utilities.<br><br>📈 Always open to collaboration, internships, and learning new tech stacks!
+👋 Hi, I'm Parashar Deb — Results-driven developer with hands-on experience in full-stack web development and applied AI/ML.
+Demonstrated ability to build scalable, real-time applications using modern frameworks and cloud tools. Strong foundation in
+data structures, algorithms, and statistics, with a passion for solving real-world problems through technology..<br><br>🧠 Currently learning ML — working on object detection projects using YOLO and Google Colab.<br><br>🚀 I contribute to open-source tools, and build automation scripts, APIs, and practical utilities.<br><br>📈 Always open to collaboration, internships, and learning new tech stacks!
 
 
 ## 🌐 Socials:
